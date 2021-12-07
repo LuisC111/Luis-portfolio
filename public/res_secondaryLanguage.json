@@ -1,0 +1,105 @@
+{
+    "basic_info": {
+      "description_header": "Hey ",
+      "description": "👋 I'm Luis Carlos. Passionate about web development, back-end and front-end :) I have worked with languages ​​such as PHP, Java, Javascript, Python, C #, SQL, and with frameworks such as React.js, Node.js, Laravel, SpringBoot. I will be happy to work with you, you can check my portfolio of projects on GitHub and if you like a project you can support me by giving it a star ⭐. Thank you very much for visiting my profile 😊.",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "Dcompras",
+        "startDate": "2021",
+        "description": "The objective of the E-Commerce project is to facilitate the purchase and sale of products online. Project developed for Tecnologo ADSI 2021.",
+        "images": [
+          "images/portfolio/animal-shelter/d1.png",
+          "images/portfolio/animal-shelter/d2.png",
+          "images/portfolio/animal-shelter/d3.png",
+          "images/portfolio/animal-shelter/d4.png"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-php-plain",
+            "name": "PHP"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-mysql-plain",
+            "name": "MySQL"
+          }
+        ]
+      },
+      {
+        "title": "MediFlow",
+        "startDate": "2021",
+        "description": "The objective of the project is to manage shifts and assign them within an interactive calendar. Project developed for Senasoft edition 2021.",
+        "images": [
+          "images/portfolio/photography/m1.png"
+        ],
+        "url": "https://github.com/LuisC111/Senasoft-2021",
+        "technologies": [
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-python-plain",
+            "name": "Flask"
+          }
+        ]
+      },
+      {
+        "title": "LindBot",
+        "startDate": "2020",
+        "description": "Lindbot is a multipurpose bot developed with discord.js v12, which allows you to perform many daily tasks such as viewing the information of the server or users until interacting.",
+        "images": [
+          "images/portfolio/adventure/l1.png",
+          "images/portfolio/adventure/l2.png"
+        ],
+        "url": "https://github.com/LuisC111",
+        "technologies": [
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "NodeJS"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "La Gran Colombia University",
+        "title": "Web Developer",
+        "years": "04.2021 - 06.2022",
+        "mainTech": [
+          "PHP 7/8"
+        ],
+        "technologies": [
+          "REST API",
+          "RxJS",
+          "JavaScript",
+          "Bootstrap",
+          "MySQL",
+          "PHP"
+        ]
+      }
+    ]
+  }
