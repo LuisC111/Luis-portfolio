@@ -2,6 +2,8 @@
 
 <h3>:books: Getting started</h3>
 
+If you want to run my project:
+
 1. Clone or fork project.
 2. Install required dependencies with `npm install`.
 3. Remove `homepage` entirely from `package.json` or set it to single dot. 
