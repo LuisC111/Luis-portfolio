@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hola",
-      "description": "👋 Soy Luis Carlos. Un apasionado por el desarrollo web, back-end y front-end :) He trabajado con lenguajes tales como PHP, Java, Javascript, Python, C#, SQL, y con frameworks como React.js, Node.js, Laravel, SpringBoot. Estare encantado de trabajar contigo, puedes revisar mi portafolio de proyectos en GitHub y si te gusta algún proyecto puedes apoyarme dandole estrellita ⭐. Muchas gracias por visitar mi perfil 😊.", 
+      "description": "👋 Soy Luis Carlos. Un apasionado por la programación de software, BackEnd y FrontEnd :) He trabajado con lenguajes tales como PHP, Java, JavaScript, Python, C#, SQL, y con frameworks como React.js, Node.js, Laravel, Spring Boot. Estaría encantado de trabajar contigo, puedes revisar mi portafolio de proyectos en GitHub y si te gusta alguno puedes apoyarme dejando una estrellita ⭐. Muchas gracias por visitar mi perfil; Email: lcmartinez261@gmail.com  😊.", 
       "section_name": {
         "about": "Acerca de mi",
         "projects": "Proyectos",
@@ -13,7 +13,7 @@
       {
         "title": "Dcompras",
         "startDate": "2021",
-        "description": "El objetivo del proyecto E-Commerce es facilitar la compra y venta de productos en linea. Proyecto desarrollado para Tecnologo ADSI 2021.",
+        "description": "El objetivo del proyecto E-Commerce es facilitar la compra y venta de productos en línea. Proyecto desarrollado para Tecnologo ADSI 2021.",
         "images": [
           "images/portfolio/animal-shelter/d1.png",
           "images/portfolio/animal-shelter/d2.png",
